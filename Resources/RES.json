@@ -1,0 +1,613 @@
+{
+	"resources": [
+		{
+			"name": "0008.png",
+			"type": "image",
+			"url": "0008.png",
+			"width":50,
+			"height": 64
+		},
+		{
+			"name": "0019.png",
+			"type": "image",
+			"url": "0019.png",
+			"width": 49,
+			"height": 64
+		},
+		{
+			"name": "0009.png",
+			"type": "image",
+			"url": "0009.png",
+			"width": 49,
+			"height": 64
+		},
+		{
+			"name": "0010.png",
+			"type": "image",
+			"url": "0010.png",
+			"width": 49,
+			"height": 64
+		},
+		{
+			"name": "0011.png",
+			"type": "image",
+			"url": "0011.png",
+			"width": 49,
+			"height": 64
+		},
+		{
+			"name": "0012.png",
+			"type": "image",
+			"url": "0012.png",
+			"width": 49,
+			"height": 64
+		},
+		{
+			"name": "0013.png",
+			"type": "image",
+			"url": "0013.png",
+			"width": 48,
+			"height": 64
+		},
+		{
+			"name": "0014.png",
+			"type": "image",
+			"url": "0014.png",
+			"width": 48,
+			"height": 64
+		},
+		{
+			"name": "0015.png",
+			"type": "image",
+			"url": "0015.png",
+			"width": 48,
+			"height": 64
+		},
+		{
+			"name": "0016.png",
+			"type": "image",
+			"url": "0016.png",
+			"width": 48,
+			"height": 64
+		},
+		{
+			"name": "0017.png",
+			"type": "image",
+			"url": "0017.png",
+			"width": 49,
+			"height": 64
+		},
+		{
+			"name": "0018.png",
+			"type": "image",
+			"url": "0018.png",
+			"width": 49,
+			"height": 64
+		},
+		{
+			"name": "0029.png",
+			"type": "image",
+			"url": "0029.png",
+			"width": 44,
+			"height": 64
+		},
+		{
+			"name": "0030.png",
+			"type": "image",
+			"url": "0030.png",
+			"width": 43,
+			"height": 64
+		},
+		{
+			"name": "0031.png",
+			"type": "image",
+			"url": "0031.png",
+			"width": 42,
+			"height": 64
+		},
+		{
+			"name": "0032.png",
+			"type": "image",
+			"url": "0032.png",
+			"width": 40,
+			"height": 64
+		},
+		{
+			"name": "0033.png",
+			"type": "image",
+			"url": "0033.png",
+			"width": 42,
+			"height": 64
+		},
+		{
+			"name": "0034.png",
+			"type": "image",
+			"url": "0034.png",
+			"width": 45,
+			"height": 64
+		},
+		{
+			"name": "0024.png",
+			"type": "image",
+			"url": "0024.png",
+			"width": 43,
+			"height": 64
+		},
+		{
+			"name": "0025.png",
+			"type": "image",
+			"url": "0025.png",
+			"width": 42,
+			"height": 64
+		},
+		{
+			"name": "0026.png",
+			"type": "image",
+			"url": "0026.png",
+			"width": 40,
+			"height": 64
+		},
+		{
+			"name": "0027.png",
+			"type": "image",
+			"url": "0027.png",
+			"width": 40,
+			"height": 64
+		},
+		{
+			"name": "0028.png",
+			"type": "image",
+			"url": "0028.png",
+			"width": 43,
+			"height": 64
+		},
+		{
+			"name": "0024_2.png",
+			"type": "image",
+			"url": "0024_2.png",
+			"width": 43,
+			"height": 64
+		},
+		{
+			"name": "0025_2.png",
+			"type": "image",
+			"url": "0025_2.png",
+			"width": 42,
+			"height": 64
+		},
+		{
+			"name": "0026_2.png",
+			"type": "image",
+			"url": "0026_2.png",
+			"width": 40,
+			"height": 64
+		},
+		{
+			"name": "0027_2.png",
+			"type": "image",
+			"url": "0027_2.png",
+			"width": 40,
+			"height": 64
+		},
+		{
+			"name": "0028_2.png",
+			"type": "image",
+			"url": "0028_2.png",
+			"width": 43,
+			"height": 64
+		},
+		{
+			"name": "0029_2.png",
+			"type": "image",
+			"url": "0029_2.png",
+			"width": 44,
+			"height": 64
+		},
+		{
+			"name": "0030_2.png",
+			"type": "image",
+			"url": "0030_2.png",
+			"width": 43,
+			"height": 64
+		},
+		{
+			"name": "0031_2.png",
+			"type": "image",
+			"url": "0031_2.png",
+			"width": 42,
+			"height": 64
+		},
+		{
+			"name": "0032_2.png",
+			"type": "image",
+			"url": "0032_2.png",
+			"width": 40,
+			"height": 64
+		},
+		{
+			"name": "0033_2.png",
+			"type": "image",
+			"url": "0033_2.png",
+			"width": 42,
+			"height": 64
+		},
+		{
+			"name": "0034_2.png",
+			"type": "image",
+			"url": "0034_2.png",
+			"width": 45,
+			"height": 64
+		},
+		{
+			"name": "grass_top.png",
+			"type": "image",
+			"url": "grass_top.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "stone.png",
+			"type": "image",
+			"url": "stone.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "stonebrick.png",
+			"type": "image",
+			"url": "stonebrick.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "stonebrick_cracked.png",
+			"type": "image",
+			"url": "stonebrick_cracked.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "stonebrick_mossy.png",
+			"type": "image",
+			"url": "stonebrick_mossy.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "gold_ore.png",
+			"type": "image",
+			"url": "gold_ore.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "leaves_spruce_opaque.png",
+			"type": "image",
+			"url": "leaves_spruce_opaque.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "mycelium_top.png",
+			"type": "image",
+			"url": "mycelium_top.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "diamond_ore.png",
+			"type": "image",
+			"url": "diamond_ore.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "furnace_side.png",
+			"type": "image",
+			"url": "furnace_side.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "cactus_top.png",
+			"type": "image",
+			"url": "cactus_top.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "hardened_clay_stained_green_with_red_flower.png",
+			"type": "image",
+			"url": "hardened_clay_stained_green_with_red_flower.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "hardened_clay_stained_green_with_tree.png",
+			"type": "image",
+			"url": "hardened_clay_stained_green_with_tree.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "hardened_clay_stained_green_with_white_flower.png",
+			"type": "image",
+			"url": "hardened_clay_stained_green_with_white_flower.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "hardened_clay_stained_green_with_yellow_flower.png",
+			"type": "image",
+			"url": "hardened_clay_stained_green_with_yellow_flower.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "pumpkin.png",
+			"type": "image",
+			"url": "pumpkin.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "jieshou.png",
+			"type": "image",
+			"url": "jieshou.png",
+			"width": 100,
+			"height": 50
+		},
+		{
+			"name": "wancheng.png",
+			"type": "image",
+			"url": "wancheng.png",
+			"width": 100,
+			"height": 50
+		},
+		{
+			"name": "renwumianbanbeijing.png",
+			"type": "image",
+			"url": "renwumianbanbeijing.png",
+			"width": 256,
+			"height": 317
+		},
+		{
+			"name": "wancheng_gray.png",
+			"type": "image",
+			"url": "wancheng_gray.png",
+			"width": 100,
+			"height": 50
+		},
+		{
+			"name": "jieshou_gray.png",
+			"type": "image",
+			"url": "jieshou_gray.png",
+			"width": 100,
+			"height": 50
+		},
+		{
+			"name": "wenhao_gray.png",
+			"type": "image",
+			"url": "wenhao_gray.png",
+			"width": 18,
+			"height": 20
+		},
+		{
+			"name": "wenhao_yellow.png",
+			"type": "image",
+			"url": "wenhao_yellow.png",
+			"width": 18,
+			"height": 20
+		},
+		{
+			"name": "tanhao_gray.png",
+			"type": "image",
+			"url": "tanhao_gray.png",
+			"width": 18,
+			"height": 20
+		},
+		{
+			"name": "tanhao_yellow.png",
+			"type": "image",
+			"url": "tanhao_yellow.png",
+			"width": 18,
+			"height": 20
+		},
+		{
+			"name": "NPC_Man_01.png",
+			"type": "image",
+			"url": "NPC_Man_01.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "NPC_Man_02.png",
+			"type": "image",
+			"url": "NPC_Man_02.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "duihuakuang.png",
+			"type": "image",
+			"url": "duihuakuang.png",
+			"width": 300,
+			"height": 300
+		},
+		{
+			"name": "Slime.png",
+			"type": "image",
+			"url": "Slime.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "FemaleArcherHero01.png",
+			"type": "image",
+			"url": "FemaleArcherHero01.png",
+			"width": 323,
+			"height": 400
+		},
+		{
+			"name": "FemaleCasterHero01.png",
+			"type": "image",
+			"url": "FemaleCasterHero01.png",
+			"width": 650,
+			"height": 806
+		},
+		{
+			"name": "FemaleLancerHero01.png",
+			"type": "image",
+			"url": "FemaleLancerHero01.png",
+			"width": 323,
+			"height": 400
+		},
+		{
+			"name": "FemaleSaberHero01.png",
+			"type": "image",
+			"url": "FemaleSaberHero01.png",
+			"width": 323,
+			"height": 400
+		},
+		{
+			"name": "FemaleSaberHero02.png",
+			"type": "image",
+			"url": "FemaleSaberHero02.png",
+			"width": 323,
+			"height": 400
+		},
+		{
+			"name": "GreenCorseler01.png",
+			"type": "image",
+			"url": "GreenCorseler01.png",
+			"width": 138,
+			"height": 138
+		},
+		{
+			"name": "MaleSaberHero01.png",
+			"type": "image",
+			"url": "MaleSaberHero01.png",
+			"width": 323,
+			"height": 400
+		},
+		{
+			"name": "OrageLance01.png",
+			"type": "image",
+			"url": "OrageLance01.png",
+			"width": 138,
+			"height": 138
+		},
+		{
+			"name": "OrangeSword01.png",
+			"type": "image",
+			"url": "OrangeSword01.png",
+			"width": 138,
+			"height": 138
+		},
+		{
+			"name": "PurpleHelmet01.png",
+			"type": "image",
+			"url": "PurpleHelmet01.png",
+			"width": 138,
+			"height": 138
+		},
+		{
+			"name": "BlueShoes01.png",
+			"type": "image",
+			"url": "BlueShoes01.png",
+			"width": 138,
+			"height": 138
+		},
+		{
+			"name": "UserPanelBackGround.png",
+			"type": "image",
+			"url": "UserPanelBackGround.png",
+			"width": 600,
+			"height": 800
+		},
+		{
+			"name": "BlackBackground.png",
+			"type": "image",
+			"url": "BlackBackground.png",
+			"width": 200,
+			"height": 400
+		},
+		{
+			"name": "0200.png",
+			"type": "image",
+			"url": "0200.png",
+			"width": 39,
+			"height": 64
+		},
+		{
+			"name": "0201.png",
+			"type": "image",
+			"url": "0201.png",
+			"width": 36,
+			"height": 64
+		},
+		{
+			"name": "0202.png",
+			"type": "image",
+			"url": "0202.png",
+			"width": 42,
+			"height": 64
+		},
+		{
+			"name": "0203.png",
+			"type": "image",
+			"url": "0203.png",
+			"width": 34,
+			"height": 64
+		},
+		{
+			"name": "0204.png",
+			"type": "image",
+			"url": "0204.png",
+			"width": 61,
+			"height": 64
+		},
+		{
+			"name": "0205.png",
+			"type": "image",
+			"url": "0205.png",
+			"width": 66,
+			"height": 64
+		},
+		{
+			"name": "0206.png",
+			"type": "image",
+			"url": "0206.png",
+			"width": 53,
+			"height": 64
+		},
+		{
+			"name": "0207.png",
+			"type": "image",
+			"url": "0207.png",
+			"width": 57,
+			"height": 64
+		},
+		{
+			"name": "0208.png",
+			"type": "image",
+			"url": "0208.png",
+			"width": 56,
+			"height": 64
+		},
+		{
+			"name": "NoEquipment.png",
+			"type": "image",
+			"url": "NoEquipment.png",
+			"width": 138,
+			"height": 138
+		},
+		{
+			"name": "userPanelButton.png",
+			"type": "image",
+			"url": "userPanelButton.png",
+			"width": 30,
+			"height": 128
+		}
+	]
+}

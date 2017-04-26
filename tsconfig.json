@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"target": "es6",
+		"module": "commonjs",
+		"outDir": "out",
+		"noImplicitAny": false,
+        "sourceMap": false,
+		"alwaysStrict": true,
+		"experimentalDecorators":true
+	},
+	"include": [
+		"src/**/*.ts",
+		"cadence/**/*.d.ts"
+	]
+}
